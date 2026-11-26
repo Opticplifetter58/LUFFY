@@ -1,0 +1,9 @@
+LINE00 no angles
+LINE01 raw-gt > end
+LINE02 raw-lt a < b end
+LINE03 arrow x -> y end
+LINE04 entity-gt a &gt; b end
+LINE05 tag <b> end
+LINE06 blockquote > quote end
+LINE07 clone git clone <url> end
+LINE08 math a <= b and c >= d end
