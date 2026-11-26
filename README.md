@@ -1,6 +1,6 @@
 # LUFFY Development Repository
 
-&gt; 🚧 **Development Branch** - This is the main development repository for LUFFY (Learning to Reason Under Off‑Policy Guidance)
+> 🚧 **Development Branch** - This is the main development repository for LUFFY (Learning to Reason Under Off‑Policy Guidance)
 
 ## About LUFFY
 
@@ -16,7 +16,7 @@ This repository is under active development. Many features are currently being i
 
 ```bash
 # Clone the repository
-git clone &lt;repository-url&gt;
+git clone <repository-url>
 cd LUFFY
 
 # Install dependencies
